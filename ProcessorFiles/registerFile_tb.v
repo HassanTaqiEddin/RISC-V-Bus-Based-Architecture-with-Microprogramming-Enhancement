@@ -3,7 +3,6 @@
 /* Name:                ID:      	serial # :                          */
 /* Issa Qandah          2036177         11                              */
 /* Hassan Taqieddin     2036057         18                              */
-/* Thaer Eid            2035027         31                              */
 /************************************************************************/
 `timescale 1ns/1ns
 module registerFile_tb();
