@@ -3,7 +3,6 @@
 /* Name:                ID:      	serial # :                          */
 /* Issa Qandah          2036177         11                              */
 /* Hassan Taqieddin     2036057         18                              */
-/* Thaer Eid            2035027         31                              */
 /************************************************************************/
 module registerFile ( addr, data, RegWrt, enReg, clock, reset);
 	
