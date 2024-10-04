@@ -3,7 +3,6 @@
 /* Name:                ID:      	serial # :                          */
 /* Issa Qandah          2036177         11                              */
 /* Hassan TaqiEddin     2036057         18                              */
-/* Thaer Eid            2035027         31                              */
 /************************************************************************/
 module microCodedControlUnit(clock, reset, Opcode, zero, busy, funct3, funct7, 
 							ldIR, ldA, ldB, ldMA, enReg, enMem, enALU, enImm, RegWrt, MemWrt, RegSel, ALUOp, ExSel);
